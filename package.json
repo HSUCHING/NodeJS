@@ -2,10 +2,16 @@
   "name": "application-name",
   "version": "0.0.1",
   "devDependencies": {
+    "async": "^2.0.0-rc.1",
     "cheerio": "*",
     "eventproxy": "^0.3.4",
+    "express": "^4.13.4",
+    "istanbul": "^0.4.2",
+    "mocha": "^2.4.5",
     "multi-node": "^0.2.3",
     "q": "^1.4.1",
-    "superagent": "*"
+    "should": "^8.2.2",
+    "superagent": "*",
+    "utility": "^1.6.0"
   }
 }
