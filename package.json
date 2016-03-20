@@ -5,6 +5,7 @@
     "cheerio": "*",
     "eventproxy": "^0.3.4",
     "multi-node": "^0.2.3",
+    "q": "^1.4.1",
     "superagent": "*"
   }
 }
